@@ -1,29 +1,25 @@
-# Salutations, I'm Taylor
+👋 Hi, I’m Taylor
+=================
 
-I don't use GitHub much. Most of my work is on Codeberg (citation needed).
+I don't use GitHub much. Most of my work is on Codeberg.$^{[citation\ needed]}$
 
-## Contributing
+Contributing
+------------
 
-If you'd like to contribute but [prefer not to use GitHub], feel free to
-**e-mail** me a patch!
+I accept patches by **e-mail** if you don't use GitHub.[^1]
 
-- How to send patches via e-mail: <https://git-send-email.io/>
-- Documentation: <https://git-scm.com/docs/git-send-email>
+- How to send patches: <https://git-send-email.io/>
+- Git documentation: <https://git-scm.com/docs/git-send-email>
 
-[prefer not to use GitHub]: https://sfconservancy.org/GiveUpGitHub/
+Skills & Tools
+--------------
 
-## Technologies
+- **VCS:** Git
+- **OS:** GNU/Linux (Fedora)
+- **Editor:** Vim and Neovim
+- **Languages:** Python, C/C++, and Zig
+- **Shell:** Bash and POSIX sh
 
-- :fire: **VCS:** Git
-- :computer: **OS:** GNU/Linux (Fedora)
-- :nerd_face: **Editor:** Vim/Neovim
-- :snake: **Languages:** Python, C, C++, and Zig
-- :shell: **Shell:** Bourne Shell/Bash
+> _Interests:_ Free software · cybersecurity · organic chemistry · music
 
-## Interests
-
-- :penguin: GNU/Linux
-- :star: Free Software
-- :bug: Cybersecurity
-- :skull: Organic Chemistry
-- :musical_note: Music
+[^1]: I'm using GitHub under protest: <https://sfconservancy.org/GiveUpGitHub/>
