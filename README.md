@@ -1,7 +1,8 @@
 👋 Hi, I’m Taylor
 =================
 
-I don't use GitHub much. Most of my work is on Codeberg.$^{[citation\ needed]}$
+I don't use GitHub much. Most of my work is on Codeberg.
+$^\text{[citation\ needed]}$
 
 Contributing
 ------------
@@ -16,10 +17,9 @@ Skills & Tools
 
 - **VCS:** Git
 - **OS:** GNU/Linux (Fedora)
-- **Editor:** Vim and Neovim
-- **Languages:** Python, C/C++, and Zig
-- **Shell:** Bash and POSIX sh
-
-> _Interests:_ Free software · cybersecurity · organic chemistry · music
+- **Editor:** Vim, Neovim
+- **Languages:** Python, C, C++, Zig
+- **Shell:** Bash, POSIX sh
+- **Interests:** Free software, cybersecurity, organic chemistry, music
 
 [^1]: I'm using GitHub under protest: <https://sfconservancy.org/GiveUpGitHub/>
