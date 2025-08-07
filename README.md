@@ -1,8 +1,8 @@
-👋 Hi, I’m Taylor
+👋🏼 Hi, I’m Taylor
 =================
 
 I don't use GitHub much. Most of my work is on Codeberg.
-$^\text{[citation\ needed]}$
+<sup>[citation needed]</sup>
 
 Contributing
 ------------
